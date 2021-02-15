@@ -476,7 +476,7 @@ mark,
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 60%;
   height: auto;
 }
 
@@ -10069,7 +10069,7 @@ p.lead {
     padding: 7px;
 }
 .img-logo img{
-          max-width: 20rem;
+          max-width: 15rem;
           height: auto;
 }
 .award .img-fluid{
