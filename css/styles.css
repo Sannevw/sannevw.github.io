@@ -10076,6 +10076,12 @@ p.lead {
   height: 1rem;
   width: 1rem;
 }
+
+#awardpar {
+ color: #01cb08;
+ display: inline;
+
+}
 .social-icons .social-icon {
   display: inline-flex;
   align-items: center;
