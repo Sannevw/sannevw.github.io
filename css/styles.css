@@ -476,7 +476,7 @@ mark,
 }
 
 .img-fluid {
-  max-width: 60%;
+  max-width: 20%;
   height: auto;
 }
 
@@ -4314,6 +4314,9 @@ input[type=button].btn-block {
   color: #fff;
 }
 
+h2 {
+  font-size: 3em;
+}
 .card {
   position: relative;
   display: flex;
